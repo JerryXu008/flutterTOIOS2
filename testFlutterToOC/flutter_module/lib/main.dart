@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'flutter_boost.dart';
+import 'package:flutter_boost/flutter_boost.dart';
 
 import 'simple_page_widgets.dart';
 
